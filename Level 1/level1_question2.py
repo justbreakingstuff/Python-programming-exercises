@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Question 2
 Level 1
